@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "description": "Deploy my-app to Heroku",
+  "stack": "container",
+  "env": {
+    "CHISEL_AUTH": {
+      "description": "option"
+    }
+  }
+}
